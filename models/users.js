@@ -1,0 +1,1 @@
+let knal = document.getElementById
